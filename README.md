@@ -26,7 +26,9 @@
 </p>
 ### 📊 GITHUB STATS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HuuPhuoc-NH&show_icons=true&theme=cyberpunk&count_private=true" alt="HuuPhuoc Stats" />
+  <img src="https://github-readme-stats-git.vercel.app/api?username=HuuPhuoc-NH&show_icons=true&theme=cyberpunk&count_private=true" alt="HuuPhuoc Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuuPhuoc-NH&layout=compact&theme=cyberpunk" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com?user=HuuPhuoc-NH&theme=cyberpunk" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats-git.vercel.app/api/top-langs/?username=HuuPhuoc-NH&layout=compact&theme=cyberpunk" alt="Top Langs" />
 </p>
